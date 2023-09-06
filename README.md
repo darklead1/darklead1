@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Felipe Mathías, yes, with "th";</h1>
 <h3 align="center">A programming enthusiast ! 🤖</h3>
 
-- 🌱 I’m currently learning **Nest Js**
+- 🌱 I’m currently learning **Nest Js and React**
 
 - 📫 How to reach me **felipe.hrza@gmail.com**
 
